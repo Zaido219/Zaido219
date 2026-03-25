@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm John Phillip</h1>
+<h1 align="center">Hi 👋, I'm Zaido </h1>
 <h3 align="center">An aspiring software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaido219&label=Profile%20views&color=0e75b6&style=flat" alt="zaido219" /> </p>
