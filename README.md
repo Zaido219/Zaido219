@@ -1,22 +1,65 @@
-<h1 align="center">Hi 👋, I'm Zaido </h1>
-<h3 align="center">An aspiring software developer</h3>
+# Hi there, I'm John Phillip Lor Malbas! 👋
+**Software Engineer**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zaido219&label=Profile%20views&color=0e75b6&style=flat" alt="zaido219" /> </p>
+Welcome to my GitHub profile! I am a passionate backend focused developer dedicated to mastering system design, clean architecture, and building robust systems from scratch. I thrive on diving deep into the underlying mechanics of complex logic—whether that means implementing custom game engines or structuring systems according to SOLID principles.
 
-- 🔭 I’m currently working on [gadinsight a data analytics website made for the gender and development office at Bulacan Agricultural State College](gadinsight.com)
+---
 
-- 🌱 I’m currently learning **React,Tailwind and CICD pipelines.**
+### 💻 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/jp lor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jp lor" height="30" width="40" /></a>
-</p>
+- 🚀 Currently looking for long term role of  **Junior Software Engineer**.
+- 🎓 Graduated with a degree of **Bachelor of Science in Information Technology** at **Bulacan Agricultural State College (BASC)**.
+- 📍 Based in **San Ildefonso, Bulacan, Philippines**.
+- 🛠️ Deeply committed to **SOLID programming principles**, architectural design patterns, and maintainable workflows.
+- 🧠 I prefer doing the hard stuffs (building core logic and systems from the ground up)  to truly master how things work under the hood.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaido219&show_icons=true&locale=en&layout=compact" alt="zaido219" /></p>
+### 🛠️ Tech Stack & Tooling
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zaido219&show_icons=true&locale=en" alt="zaido219" /></p>
+- **Languages:** Python, C#, JavaScript (ES6+), SQL, HTML5, CSS3
+- **Backend Frameworks:** Django, RESTful APIs
+- **Frontend Ecosystem:** React.js, Tailwind CSS
+- **Databases:** MySQL
+- **DevOps & Tooling:** Git, GitHub Actions (CI/CD), VPS Management, Vercel, Postman
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zaido219&" alt="zaido219" /></p>
+---
+
+### 📂 Featured Projects
+
+#### 📊 **GAD Insight**
+An advanced data analytics platform engineered for the **Gender and Development (GAD) office** at Bulacan Agricultural State College. Built to aggregate, analyze, and visualize complex data metrics efficiently.
+- **Tech Stack:** Python, Django, MySQL, Tailwind CSS
+- **Focus:** Data schema mapping, robust relational logic, and maintainable backend architecture.
+- Please visit the site here : https://www.gadinsight.com/
+
+#### 📸 **The Analog Archivist (PhotoBooth)**
+A sleek, interactive photobooth web application tailored for capturing and preserving digital moments with a curated aesthetic.
+- **Tech Stack:** React, Tailwind CSS, Vercel
+- **Focus:** Frontend performance, clean state management, and streamlined CI/CD deployment workflows via GitHub Actions.
+- Please visit the site here : https://photobooth-app-three.vercel.app/
+
+#### ♟️ **Custom Chess Engine Application**
+***Under Construction***
+A web-based chess platform featuring an original, custom-built game engine designed entirely from scratch for move validation and game-state management.
+- **Tech Stack:**  C#
+- **Focus:** Algorithmic complexity, state isolation, and bypassing third-party libraries (like chess.js) to master programmatic rule validation.
+
+---
+
+### 📈 Contribution & Philosophy
+
+> "Clean code always looks like it was written by someone who cares." — Michael Feathers
+
+Systems must be built like Legos. Each part takes in an input, handles its processing internally, and outputs a clear result. They must be completely independent with little to no coupling at all, giving developers the freedom to swap pieces with ease without fearing that something else might break.
+
+---
+
+### 📫 Connect With Me
+
+- 💼 **LinkedIn:** www.linkedin.com/in/john-phillip-lor-malbas-16b649399
+- 📧 **Email:** jpmalbas4@gmail.com
+- 🌐 **Portfolio / Site:** https://personal-portfolio-one-dun-82.vercel.app/
+
+---
+*“An investment in knowledge always pays the best interest.”*
