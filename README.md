@@ -78,6 +78,7 @@ Systems must be built like Legos. Each part takes in an input, handles its proce
 - 💼 **LinkedIn:** www.linkedin.com/in/john-phillip-lor-malbas-16b649399
 - 📧 **Email:** jpmalbas4@gmail.com
 - 🌐 **Portfolio / Site:** https://personal-portfolio-one-dun-82.vercel.app/
+- <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /> Check me out:https://www.facebook.com/profile.php?id=100054388962678
 
 ---
 *“An investment in knowledge always pays the best interest.”*
