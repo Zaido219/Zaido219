@@ -15,6 +15,23 @@ Welcome to my GitHub profile! I am a passionate backend focused developer dedica
 
 ---
 
+---
+
+### 📊 GitHub Metrics & Insights
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" valign="top" width="50%">
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=Zaido219&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=9ca3af&hide_rank=true" alt="John's GitHub Stats" />
+      </td>
+      <td align="center" valign="top" width="50%">
+        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaido219&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=9ca3af&langs_count=6" alt="John's Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 ### 🛠️ Tech Stack & Tooling
 
 - **Languages:** Python, C#, JavaScript (ES6+), SQL, HTML5, CSS3
