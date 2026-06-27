@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I am a passionate backend focused developer dedica
   <table border="0">
     <tr>
       <td align="center" valign="top" width="50%">
-      <img height="180" src="https://github-readme-stats-pink-gamma-69.vercel.app/api?username=Zaido219&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=9ca3af&count_private=true" alt="John's GitHub Stats" />
+    <img height="180" src="https://github-readme-stats-pink-gamma-69.vercel.app/api?username=Zaido219&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=9ca3af&count_private=true&include_all_commits=true" alt="John's GitHub Stats" />
       </td>
       <td align="center" valign="top" width="50%">
       <img height="180" src="https://github-readme-stats-pink-gamma-69.vercel.app/api/top-langs/?username=Zaido219&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=9ca3af&langs_count=6" alt="John's Top Languages" />
