@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I am a passionate backend focused developer dedica
 ### 🛠️ Tech Stack & Tooling
 
 - **Languages:** Python, C#, JavaScript (ES6+), SQL, HTML5, CSS3
-- **Backend Frameworks:** Django, RESTful APIs
+- **Backend Frameworks:** Windows Presentation Foundation (WPF), Django, RESTful APIs
 - **Frontend Ecosystem:** React.js, Tailwind CSS
 - **Databases:** MySQL
 - **DevOps & Tooling:** Git, GitHub Actions (CI/CD), VPS Management, Vercel, Postman
@@ -44,6 +44,12 @@ Welcome to my GitHub profile! I am a passionate backend focused developer dedica
 ---
 
 ### 📂 Featured Projects
+
+#### 📝 **Notepad Clone**
+A notepad clone built on Windows Presentation Platform and follows MVVM Architecture.
+- **Tech Stack:** WPF, XAML, C#
+- **Focus:** File manipulation, I/O Streams, Event Management, Desktop application(windows).
+- Please visit the site here : https://www.gadinsight.com/
 
 #### 📊 **GAD Insight**
 An advanced data analytics platform engineered for the **Gender and Development (GAD) office** at Bulacan Agricultural State College. Built to aggregate, analyze, and visualize complex data metrics efficiently.
