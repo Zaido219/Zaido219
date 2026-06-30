@@ -49,7 +49,7 @@ Welcome to my GitHub profile! I am a passionate backend focused developer dedica
 A notepad clone built on Windows Presentation Platform and follows MVVM Architecture.
 - **Tech Stack:** WPF, XAML, C#
 - **Focus:** File manipulation, I/O Streams, Event Management, Desktop application(windows).
-- Please visit the site here : https://www.gadinsight.com/
+- Please visit the site here : Project is still under construction
 
 #### 📊 **GAD Insight**
 An advanced data analytics platform engineered for the **Gender and Development (GAD) office** at Bulacan Agricultural State College. Built to aggregate, analyze, and visualize complex data metrics efficiently.
