@@ -28,7 +28,6 @@ Welcome to my GitHub profile! I am a passionate backend focused developer dedica
       <td align="center" valign="top" width="50%">
      <img height="180" src="https://github-readme-stats-pink-gamma-69.vercel.app/api/top-langs/?username=Zaido219&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=9ca3af&langs_count=6&all_time=true" alt="John's Top Languages" />
       </td>
-      </td>
     </tr>
   </table>
 </div>
@@ -81,10 +80,10 @@ Systems must be built like Legos. Each part takes in an input, handles its proce
 
 ### 📫 Connect With Me
 
-- 💼 **LinkedIn:** www.linkedin.com/in/john-phillip-lor-malbas-16b649399
-- 📧 **Email:** jpmalbas4@gmail.com
-- 🌐 **Portfolio / Site:** https://personal-portfolio-one-dun-82.vercel.app/
-- <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /> Check me out:https://www.facebook.com/profile.php?id=100054388962678
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-phillip-lor-malbas-16b649399)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jpmalbas4@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://personal-portfolio-one-dun-82.vercel.app/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100054388962678)
 
 ---
 *“An investment in knowledge always pays the best interest.”*
