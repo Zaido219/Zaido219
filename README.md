@@ -1,4 +1,4 @@
-# Hi there, I'm John Phillip Lor Malbas! 👋
+# Hi there, I'm John Phillip Lor Malbas! 🤖
 **Software Engineer**
 
 Welcome to my GitHub profile! I am a passionate backend focused developer dedicated to mastering system design, clean architecture, and building robust systems from scratch. I thrive on diving deep into the underlying mechanics of complex logic—whether that means implementing custom game engines or structuring systems according to SOLID principles.
