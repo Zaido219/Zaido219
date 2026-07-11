@@ -38,6 +38,7 @@ Welcome to my GitHub profile! I am a passionate backend focused developer dedica
 - **Backend Frameworks:** Windows Presentation Foundation (WPF), Django, RESTful APIs
 - **Frontend Ecosystem:** React.js, Tailwind CSS
 - **Databases:** MySQL
+- **Testing:** MSTest(c#), Pytest(python)
 - **DevOps & Tooling:** Git, GitHub Actions (CI/CD), VPS Management, Vercel, Postman
 
 ---
