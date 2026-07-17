@@ -45,12 +45,16 @@ Welcome to my GitHub profile! I am a passionate backend focused developer dedica
 
 ### 📂 Featured Projects
 
+####  **Static Web Server**
+A lightweight, multi-threaded static file server built entirely from scratch in C# using raw TCP sockets. Instead of relying on high-level HTTP abstractions (like ASP.NET Core or HttpListener), this project implements the fundamental networking and protocol parsing layers manually to understand how web servers actually communicate with modern browsers under the hood.\
+- **Tech Stack:** C#
+- **Focus:** TCP sockets, Asynchronous Programming, General Web Understanding
+- Please check the build on my repositories
 #### 📝 **Notepad Clone**
 A notepad clone built on Windows Presentation Platform and follows MVVM Architecture.
 - **Tech Stack:** WPF, XAML, C#
 - **Focus:** File manipulation, I/O Streams, Event Management, Desktop application(windows).
-- Please visit the site here : Project is still under construction
-
+- Please check the build on my repositories
 #### 📊 **GAD Insight**
 An advanced data analytics platform engineered for the **Gender and Development (GAD) office** at Bulacan Agricultural State College. Built to aggregate, analyze, and visualize complex data metrics efficiently.
 - **Tech Stack:** Python, Django, MySQL, Tailwind CSS
@@ -62,12 +66,6 @@ A sleek, interactive photobooth web application tailored for capturing and prese
 - **Tech Stack:** React, Tailwind CSS, Vercel
 - **Focus:** Frontend performance, clean state management, and streamlined CI/CD deployment workflows via GitHub Actions.
 - Please visit the site here : https://photobooth-app-three.vercel.app/
-
-#### ♟️ **Custom Chess Engine Application**
-***Under Construction***
-A web-based chess platform featuring an original, custom-built game engine designed entirely from scratch for move validation and game-state management.
-- **Tech Stack:**  C#
-- **Focus:** Algorithmic complexity, state isolation, and bypassing third-party libraries (like chess.js) to master programmatic rule validation.
 
 ---
 
