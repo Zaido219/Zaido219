@@ -73,29 +73,74 @@ Welcome to my GitHub profile! I am a passionate backend focused developer dedica
 
 ### 📂 Featured Projects
 
-####  **Static Web Server**
-A lightweight, multi-threaded static file server built entirely from scratch in C# using raw TCP sockets. Instead of relying on high-level HTTP abstractions (like ASP.NET Core or HttpListener), this project implements the fundamental networking and protocol parsing layers manually to understand how web servers actually communicate with modern browsers under the hood.\
-- **Tech Stack:** C#
-- **Focus:** TCP sockets, Asynchronous Programming, General Web Understanding
-- Please check the build on my repositories
-#### 📝 **Notepad Clone**
-A notepad clone built on Windows Presentation Platform and follows MVVM Architecture.
-- **Tech Stack:** WPF, XAML, C#
-- **Focus:** File manipulation, I/O Streams, Event Management, Desktop application(windows).
-- Please check the build on my repositories
-#### 📊 **GAD Insight**
-An advanced data analytics platform engineered for the **Gender and Development (GAD) office** at Bulacan Agricultural State College. Built to aggregate, analyze, and visualize complex data metrics efficiently.
-- **Tech Stack:** Python, Django, MySQL, Tailwind CSS
-- **Focus:** Data schema mapping, robust relational logic, and maintainable backend architecture.
-- Please visit the site here : https://www.gadinsight.com/
+<br />
 
-#### 📸 **The Analog Archivist (PhotoBooth)**
-A sleek, interactive photobooth web application tailored for capturing and preserving digital moments with a curated aesthetic.
-- **Tech Stack:** React, Tailwind CSS, Vercel
-- **Focus:** Frontend performance, clean state management, and streamlined CI/CD deployment workflows via GitHub Actions.
-- Please visit the site here : https://photobooth-app-three.vercel.app/
+> ### ⚡ **Static Web Server**
+> A lightweight, multi-threaded static file server built entirely from scratch using raw TCP sockets—bypassing high-level HTTP abstractions (like ASP.NET Core or `HttpListener`) to implement custom networking and protocol parsing layers.
+>
+> **Tech Stack:**  
+> ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+> ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+>
+> **Core Architectural Focus:**
+> - Manual HTTP/1.1 request header parsing and status code handling.
+> - Asynchronous multi-threaded connection management via raw TCP sockets.
+> - Non-blocking stream handling for static asset delivery.
+>
+> [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zaido219)
 
----
+<br />
+
+> ### 📝 **Notepad Clone (MVVM)**
+> A full-featured desktop text editor built on the Windows Presentation Foundation (WPF) platform strictly adhering to the Model-View-ViewModel (MVVM) design pattern.
+>
+> **Tech Stack:**  
+> ![WPF](https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+> ![XAML](https://img.shields.io/badge/XAML-0C54C2?style=flat-square&logo=xaml&logoColor=white)
+> ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+>
+> **Core Architectural Focus:**
+> - Decoupled UI logic using data binding, commands, and notification interfaces (`INotifyPropertyChanged`).
+> - Efficient file I/O operations and memory stream buffers for text processing.
+> - Custom window state management and event-driven document handling.
+>
+> [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zaido219)
+
+<br />
+
+> ### 📊 **GAD Insight**
+> An enterprise-level data analytics platform engineered for the **Gender and Development (GAD) office** at Bulacan Agricultural State College to aggregate, process, and visualize complex metric datasets.
+>
+> **Tech Stack:**  
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+> ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+> ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+> ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+>
+> **Core Architectural Focus:**
+> - Designed normalized relational database schemas for complex metric tracking.
+> - Structured maintainable Django backend architecture following robust domain logic.
+> - Integrated responsive analytical dashboards for administrative dynamic reporting.
+>
+> [![Live Site](https://img.shields.io/badge/Live_Demo-0070F3?style=for-the-badge&logo=vercel&logoColor=white)](https://www.gadinsight.com/)
+
+<br />
+
+> ### 📸 **The Analog Archivist (PhotoBooth)**
+> A interactive photobooth web application designed around capture workflows, real-time feedback loops, and automated deployments.
+>
+> **Tech Stack:**  
+> ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+> ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+> ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+> ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+>
+> **Core Architectural Focus:**
+> - Deterministic state management for multi-stage image capture sequences.
+> - Optimized client-side rendering performance and canvas manipulations.
+> - Automated CI/CD pipeline deployment via GitHub Actions.
+>
+> [![Live Site](https://img.shields.io/badge/Live_Demo-0070F3?style=for-the-badge&logo=vercel&logoColor=white)](https://photobooth-app-three.vercel.app/)
 
 ### 📈 Contribution & Philosophy
 
