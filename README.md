@@ -72,6 +72,23 @@ Welcome to my GitHub profile! I am a passionate backend focused developer dedica
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### 📂 Featured Projects
+<br />
+
+> ### ⚡ **Chess Engine**
+> A performant desktop chess application built with C# and Raylib. Emphasizes low-level bit manipulation, state representation, and clean UI-core decoupling to deliver real-time move validation and custom engine logic from first principles.
+>
+> **Tech Stack:**  
+> ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![raylib](https://img.shields.io/badge/raylib-000000?style=flat-square&logo=raylib&logoColor=white)
+>
+> **Core Architectural Focus:**
+> - Custom built from the ground up, no reliance to external libraries.
+> - State Management.
+> - Dependency Injection.
+>
+> [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zaido219/custom-chess-engine)
+
+<br />
 
 <br />
 
@@ -125,22 +142,6 @@ Welcome to my GitHub profile! I am a passionate backend focused developer dedica
 > [![Live Site](https://img.shields.io/badge/Live_Demo-0070F3?style=for-the-badge&logo=vercel&logoColor=white)](https://www.gadinsight.com/)
 
 <br />
-
-> ### 📸 **The Analog Archivist (PhotoBooth)**
-> A interactive photobooth web application designed around capture workflows, real-time feedback loops, and automated deployments.
->
-> **Tech Stack:**  
-> ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-> ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-> ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-> ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
->
-> **Core Architectural Focus:**
-> - Deterministic state management for multi-stage image capture sequences.
-> - Optimized client-side rendering performance and canvas manipulations.
-> - Automated CI/CD pipeline deployment via GitHub Actions.
->
-> [![Live Site](https://img.shields.io/badge/Live_Demo-0070F3?style=for-the-badge&logo=vercel&logoColor=white)](https://photobooth-app-three.vercel.app/)
 
 ### 📈 Contribution & Philosophy
 
