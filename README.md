@@ -157,7 +157,7 @@ Systems must be built like Legos. Each part takes in an input, handles its proce
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jpmalbas4@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://personal-portfolio-one-dun-82.vercel.app/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100054388962678)
-[![Viber](https://img.shields.io/badge/Viber-665CAC?style=flat-square&logo=viber&logoColor=white)](viber://chat?number=%2B639553395861)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/639914003588)
 
 ---
 *“An investment in knowledge always pays the best interest.”*
