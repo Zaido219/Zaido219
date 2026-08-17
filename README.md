@@ -15,23 +15,6 @@ Welcome to my GitHub profile! I am a passionate backend focused developer dedica
 
 ---
 
----
-
-### 📊 GitHub Metrics & Insights
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" valign="top" width="50%">
-    <img height="180" src="https://github-readme-stats-pink-gamma-69.vercel.app/api?username=Zaido219&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=9ca3af&count_private=true&include_all_commits=true" alt="John's GitHub Stats" />
-      </td>
-      <td align="center" valign="top" width="50%">
-     <img height="180" src="https://github-readme-stats-pink-gamma-69.vercel.app/api/top-langs/?username=Zaido219&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=9ca3af&langs_count=6&all_time=true" alt="John's Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-
 ### 🛠️ Tech Stack & Tooling
 
 **Languages**  
@@ -78,6 +61,24 @@ Welcome to my GitHub profile! I am a passionate backend focused developer dedica
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+---
+
+### 📊 GitHub Metrics & Insights
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" valign="top" width="50%">
+    <img height="180" src="https://github-readme-stats-pink-gamma-69.vercel.app/api?username=Zaido219&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=9ca3af&count_private=true&include_all_commits=true" alt="John's GitHub Stats" />
+      </td>
+      <td align="center" valign="top" width="50%">
+     <img height="180" src="https://github-readme-stats-pink-gamma-69.vercel.app/api/top-langs/?username=Zaido219&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=9ca3af&langs_count=6&all_time=true" alt="John's Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ### 📂 Featured Projects
 <br />
