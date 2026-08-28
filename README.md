@@ -15,6 +15,23 @@ Welcome to my GitHub profile! I am a passionate backend focused developer dedica
 
 ---
 
+---
+
+### 📊 GitHub Metrics & Insights
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" valign="top" width="50%">
+    <img height="180" src="https://github-readme-stats-pink-gamma-69.vercel.app/api?username=Zaido219&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=9ca3af&count_private=true&include_all_commits=true" alt="John's GitHub Stats" />
+      </td>
+      <td align="center" valign="top" width="50%">
+     <img height="180" src="https://github-readme-stats-pink-gamma-69.vercel.app/api/top-langs/?username=Zaido219&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=9ca3af&langs_count=6&all_time=true" alt="John's Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 ### 🛠️ Tech Stack & Tooling
 
 **Languages**  
@@ -54,33 +71,27 @@ Welcome to my GitHub profile! I am a passionate backend focused developer dedica
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-**AI & Machine Learning**  
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
----
-
-### 📊 GitHub Metrics & Insights
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" valign="top" width="50%">
-    <img height="180" src="https://github-readme-stats-pink-gamma-69.vercel.app/api?username=Zaido219&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=9ca3af&count_private=true&include_all_commits=true" alt="John's GitHub Stats" />
-      </td>
-      <td align="center" valign="top" width="50%">
-     <img height="180" src="https://github-readme-stats-pink-gamma-69.vercel.app/api/top-langs/?username=Zaido219&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=9ca3af&langs_count=6&all_time=true" alt="John's Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-
 ### 📂 Featured Projects
+<br />
+
+> ### 🤖 **Local RAG Pipeline**
+> A modular, locally hosted Retrieval-Augmented Generation system. Combines semantic vector retrieval with Google's Gemini models and local embeddings to deliver context-aware answers over local document collections with real-time text and speech interfaces.
+>
+> **Tech Stack:**  
+> ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+> ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+> ![ChromaDB](https://img.shields.io/badge/ChromaDB-000000?style=flat-square&logo=chroma&logoColor=white)
+> ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+>
+> **Core Architectural Focus:**
+> - Solid Object-Oriented Design and Decoupled Service Interfaces (SOLID Principles).
+> - Dynamic Vector Search & Context Retrieval Pipeline using ChromaDB.
+> - Multimodal Integration featuring Gemini-powered Speech-to-Text and TTS audio streaming.
+> - State-managed interactive UI using Streamlit.
+>
+> [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zaido219/local-RAG-pipeline)
+
 <br />
 
 > ### ⚡ **Chess Engine**
@@ -134,24 +145,6 @@ Welcome to my GitHub profile! I am a passionate backend focused developer dedica
 
 <br />
 
-> ### 📊 **GAD Insight**
-> An enterprise-level data analytics platform engineered for the **Gender and Development (GAD) office** at Bulacan Agricultural State College to aggregate, process, and visualize complex metric datasets.
->
-> **Tech Stack:**  
-> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-> ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-> ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-> ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
->
-> **Core Architectural Focus:**
-> - Designed normalized relational database schemas for complex metric tracking.
-> - Structured maintainable Django backend architecture following robust domain logic.
-> - Integrated responsive analytical dashboards for administrative dynamic reporting.
->
-> [![Live Site](https://img.shields.io/badge/Live_Demo-0070F3?style=for-the-badge&logo=vercel&logoColor=white)](https://www.gadinsight.com/)
-
-<br />
-
 ### 📈 Contribution & Philosophy
 
 > "Clean code always looks like it was written by someone who cares." — Michael Feathers
@@ -166,7 +159,6 @@ Systems must be built like Legos. Each part takes in an input, handles its proce
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jpmalbas4@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://personal-portfolio-one-dun-82.vercel.app/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100054388962678)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/639914003588)
 
 ---
 *“An investment in knowledge always pays the best interest.”*
