@@ -17,75 +17,6 @@
   </p>
 </div>
 
----
----
-
-### 💻 About Me
-
-- 🚀 Currently looking for long term role of  **Junior Software Engineer**.
-- 🎓 Graduated with a degree of **Bachelor of Science in Information Technology** at **Bulacan Agricultural State College (BASC)**.
-- 📍 Based in **San Ildefonso, Bulacan, Philippines**.
-- 🛠️ Deeply committed to **SOLID programming principles**, architectural design patterns, and maintainable workflows.
-- 🧠 I prefer doing the hard stuffs (building core logic and systems from the ground up)  to truly master how things work under the hood.
-
----
-
----
-
-### 📊 GitHub Metrics & Insights
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" valign="top" width="50%">
-    <img height="180" src="https://github-readme-stats-pink-gamma-69.vercel.app/api?username=Zaido219&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=9ca3af&count_private=true&include_all_commits=true" alt="John's GitHub Stats" />
-      </td>
-      <td align="center" valign="top" width="50%">
-     <img height="180" src="https://github-readme-stats-pink-gamma-69.vercel.app/api/top-langs/?username=Zaido219&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=9ca3af&langs_count=6&all_time=true" alt="John's Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-### 🛠️ Tech Stack & Tooling
-
-**Languages**  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Backend & Frameworks**  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![.NET / WPF](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-0055DA?style=for-the-badge&logo=fastapi&logoColor=white)
-
-**Frontend Ecosystem**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Databases & Testing**  
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-![xUnit](https://img.shields.io/badge/xUnit.net-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-
-**DevOps & Tooling**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-**Low-Level, Hardware & Systems**  
-![Raylib](https://img.shields.io/badge/Raylib-000000?style=for-the-badge&logo=raylib&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
 ### 📂 Featured Projects
 <br />
 
@@ -159,6 +90,71 @@
 > [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zaido219)
 
 <br />
+---
+
+### 💻 About Me
+
+- 🚀 Currently looking for long term role of  **Junior Software Engineer**.
+- 🎓 Graduated with a degree of **Bachelor of Science in Information Technology** at **Bulacan Agricultural State College (BASC)**.
+- 📍 Based in **San Ildefonso, Bulacan, Philippines**.
+- 🛠️ Deeply committed to **SOLID programming principles**, architectural design patterns, and maintainable workflows.
+- 🧠 I prefer doing the hard stuffs (building core logic and systems from the ground up)  to truly master how things work under the hood.
+
+---
+
+### 📊 GitHub Metrics & Insights
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" valign="top" width="50%">
+    <img height="180" src="https://github-readme-stats-pink-gamma-69.vercel.app/api?username=Zaido219&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=9ca3af&count_private=true&include_all_commits=true" alt="John's GitHub Stats" />
+      </td>
+      <td align="center" valign="top" width="50%">
+     <img height="180" src="https://github-readme-stats-pink-gamma-69.vercel.app/api/top-langs/?username=Zaido219&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=9ca3af&langs_count=6&all_time=true" alt="John's Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 🛠️ Tech Stack & Tooling
+
+**Languages**  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend & Frameworks**  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![.NET / WPF](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-0055DA?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Frontend Ecosystem**  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Databases & Testing**  
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+![xUnit](https://img.shields.io/badge/xUnit.net-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+
+**DevOps & Tooling**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+**Low-Level, Hardware & Systems**  
+![Raylib](https://img.shields.io/badge/Raylib-000000?style=for-the-badge&logo=raylib&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### 📈 Contribution & Philosophy
 
