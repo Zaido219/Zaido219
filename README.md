@@ -93,7 +93,7 @@ A lightweight, multi-threaded static file server built with C# and raw TCP socke
 * Concurrent connection management.
 * Static asset delivery and stream handling.
 
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Zaido219)
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Zaido219/static-html-server)
 
 <br />
 
@@ -114,7 +114,7 @@ A desktop text editor built with C# and WPF while exploring the Model-View-ViewM
 * File I/O and text processing.
 * Event-driven desktop application development.
 
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Zaido219)
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Zaido219/Notepad)
 
 ---
 
