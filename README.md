@@ -125,7 +125,7 @@ A desktop text editor built with C# and WPF while exploring the Model-View-ViewM
 
 ### 💻 About Me
 
-* 🚀 Currently seeking opportunities in **software development and backend engineering**.
+* 🚀 Currently seeking opportunities in **Software development AI engineering and Backend engineering**.
 * 🎓 Bachelor of Science in **Information Technology** graduate from **Bulacan Agricultural State College (BASC)**.
 * 🛠️ Interested in **software architecture, SOLID principles, system design, and maintainable software**.
 * 🧠 I enjoy building core logic and systems from the ground up to better understand how they work under the hood.
