@@ -210,15 +210,36 @@ A desktop text editor built with C# and WPF while exploring the Model-View-ViewM
 
 ---
 
+---
+
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/john-phillip-lor-malbas-16b649399)
+<table>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/john-phillip-lor-malbas-16b649399">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+      </a>
+    </td>
+    <td>
+      <a href="mailto:jpmalbas4@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+      </a>
+    </td>
+    <td>
+      <a href="https://personal-portfolio-one-dun-82.vercel.app/">
+        <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.facebook.com/profile.php?id=100054388962678">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
+      </a>
+    </td>
+  </tr>
+</table>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:jpmalbas4@gmail.com)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square\&logo=vercel\&logoColor=white)](https://personal-portfolio-one-dun-82.vercel.app/)
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square\&logo=facebook\&logoColor=white)](https://www.facebook.com/profile.php?id=100054388962678)
+---
 
 ---
 
