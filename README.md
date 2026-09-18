@@ -1,4 +1,9 @@
 <div align="center">
+  <!-- Banner Image -->
+  <img src="assets/Gemini_Generated_Image_ir2ylyir2ylyir2y.jpg" width="100%" alt="Creation of Code" />
+</div>
+<br /><br />
+<div align="center">
 
   <!-- Hero Text -->
 
