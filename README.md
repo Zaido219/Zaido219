@@ -28,10 +28,10 @@
 
 ### 🔭 Currently Exploring
 
-* **C# / .NET** — strengthening my understanding of application architecture, system design, and backend development.
 * **AI Engineering** — building practical applications around LLMs, RAG, embeddings, and AI-powered workflows.
 * **Backend Systems** — APIs, databases, networking, concurrency, and service architecture.
 * **Software Architecture** — SOLID principles, separation of concerns, dependency management, and maintainable system design.
+* **C# / .NET** — strengthening my understanding of application architecture, system design, and backend development.
 
 ---
 
