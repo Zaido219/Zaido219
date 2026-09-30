@@ -58,6 +58,8 @@ A modular, locally hosted Retrieval-Augmented Generation system that combines se
 * LLM integration and multimodal interaction.
 * Interactive application development using Streamlit.
 
+![Local RAG Pipeline Demo](assets/images/projects/rag/image.png)
+
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Zaido219/local-RAG-pipeline)
 
 <br />
@@ -77,6 +79,12 @@ A desktop chess application built with C# and Raylib, focusing on board-state re
 * Move validation and chess rules.
 * Dependency management and separation of concerns.
 * Understanding lower-level implementation details.
+
+
+<div align="center">
+  <img src="assets/images/projects/custom-chess/image.png" width="48%" alt="System Architecture" />
+  <img src="assets/images/projects/custom-chess/Screenshot 2026-07-27 192139.png" width="48%" alt="Streamlit UI Demo" />
+</div>
 
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Zaido219/custom-chess-engine)
 
