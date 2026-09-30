@@ -37,6 +37,27 @@
 
 ### 📂 Featured Projects
 
+### 📱 **FB Content Automation**
+
+An experimental content pipeline that transforms single concept inputs into brand-aligned image prompts and handles automated publishing. Built for the Batang90 concept to automate prompt engineering, human-in-the-loop review, and direct social media deployment.
+
+**Tech Stack:**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Meta](https://img.shields.io/badge/Meta_Graph_API-0467DF?style=flat-square&logo=meta&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
+
+**Focus:**
+
+* Config-driven prompt orchestration with dynamic rule injection and feedback loops.
+* Google AI Imagen integration for automated visual content generation.
+* Facebook Graph API integration for programmatic page publishing.
+* Streamlit desktop workflow for real-time asset review, rejection feedback, and approval.
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zaido219/fb-content-automation)
+
 <br />
 
 ### 🤖 **Local RAG Pipeline**
@@ -109,25 +130,6 @@ A lightweight, multi-threaded static file server built with C# and raw TCP socke
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Zaido219/static-html-server)
 
 <br />
-
-### 📝 **Notepad Clone**
-
-A desktop text editor built with C# and WPF while exploring the Model-View-ViewModel (MVVM) design pattern, data binding, commands, and event-driven application development.
-
-**Tech Stack:**
-
-![WPF](https://img.shields.io/badge/WPF-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
-![XAML](https://img.shields.io/badge/XAML-0C54C2?style=flat-square\&logo=xaml\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square\&logo=c-sharp\&logoColor=white)
-
-**Focus:**
-
-* MVVM architecture and UI separation.
-* Data binding and command-based interaction.
-* File I/O and text processing.
-* Event-driven desktop application development.
-
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Zaido219/Notepad)
 
 ---
 
