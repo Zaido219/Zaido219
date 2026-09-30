@@ -56,6 +56,12 @@ An experimental content pipeline that transforms single concept inputs into bran
 * Facebook Graph API integration for programmatic page publishing.
 * Streamlit desktop workflow for real-time asset review, rejection feedback, and approval.
 
+<div align="center">
+  <img src="assets/images/projects/fb-content-automation/image.png" width="48%" alt="System Architecture" />
+  <img src="assets/images/projects/fb-content-automation/sample_img_output.png" width="48%" alt="Streamlit UI Demo" />
+</div>
+
+
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zaido219/fb-content-automation)
 
 <br />
