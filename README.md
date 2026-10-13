@@ -225,7 +225,7 @@ A lightweight, multi-threaded static file server built with C# and raw TCP socke
 
 ### 🧠 Engineering Philosophy
 
-> I like software that is easy to understand, test, replace, and extend. I aim to keep responsibilities separated and dependencies explicit so that individual components can evolve without unnecessarily affecting the rest of the system.
+> Ai will only be as good as the person using it.
 
 ---
 
