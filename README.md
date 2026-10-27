@@ -10,19 +10,17 @@
   <h1>Hi 👋, I'm John Phillip Lor Malbas!</h1>
 
   <h3><b>Software Engineer | Backend & Systems Development</b></h3>
-
-  <div align="left">
-<p>
-  I'm a Bachelor of Science in Information Technology graduate interested in building reliable software, backend systems, and developer-focused applications. My primary interests are backend engineering, system design, clean architecture, and understanding how software works beneath high-level abstractions.
-</p>
-
-<p>
-  I enjoy building projects from the ground up—from desktop applications and networking systems to data-driven applications and AI-powered tools. I'm particularly interested in C#/.NET and Python, while continuously expanding my knowledge across software architecture, databases, APIs, and AI engineering.
-</p>
-
-  </div>
-
 </div>
+
+---
+
+### 💻 About Me
+
+* 🚀 Actively seeking opportunities in **software development, AI engineering, and backend engineering**.
+* 🎓 Bachelor of Science in **Information Technology**, graduated from **Bulacan Agricultural State College (BASC)**.
+* 🛠️ Interested in **software architecture, SOLID principles, system design, and maintainable software**.
+* 🧠 I enjoy building core logic and systems from the ground up to understand how they work under the hood.
+* 🤖 Exploring **AI engineering, LLM applications, RAG, and intelligent software systems**.
 
 ---
 
@@ -137,18 +135,6 @@ A lightweight, multi-threaded static file server built with C# and raw TCP socke
 
 <br />
 
----
-
-### 💻 About Me
-
-* 🚀 Currently seeking opportunities in **Software development AI engineering and Backend engineering**.
-* 🎓 Bachelor of Science in **Information Technology** graduate from **Bulacan Agricultural State College (BASC)**.
-* 🛠️ Interested in **software architecture, SOLID principles, system design, and maintainable software**.
-* 🧠 I enjoy building core logic and systems from the ground up to better understand how they work under the hood.
-* 🤖 Exploring **AI engineering, LLM applications, RAG, and intelligent software systems**.
-
----
-
 ### 📊 GitHub Metrics & Insights
 
 <div align="center">
@@ -228,6 +214,20 @@ A lightweight, multi-threaded static file server built with C# and raw TCP socke
 > Ai will only be as good as the person using it.
 
 ---
+
+---
+
+### 🧠 More About Me
+
+<div align="left">
+<p>
+  I'm a Bachelor of Science in Information Technology graduate from Bulacan Agricultural State College (BASC), actively seeking opportunities in software development, AI engineering, and backend engineering. I'm interested in building reliable software, backend systems, and developer-focused applications, with a focus on system design, clean architecture, and understanding how software works beneath high-level abstractions.
+</p>
+
+<p>
+  I enjoy building projects from the ground up—from desktop applications and networking systems to data-driven applications and AI-powered tools. I'm particularly interested in C#/.NET and Python, while continuously expanding my knowledge across software architecture, databases, APIs, and AI engineering.
+</p>
+</div>
 
 ---
 
