@@ -9,7 +9,7 @@
 
   <h1>Hi 👋, I'm John Phillip Lor Malbas!</h1>
 
-  <h3><b>Software Engineer | Backend & Systems Development</b></h3>
+  <h3><b>Software Developer | C#/.NET, Python, Full-Stack & AI Applications.</b></h3>
 </div>
 
 ---
