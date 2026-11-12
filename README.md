@@ -211,7 +211,7 @@ A lightweight, multi-threaded static file server built with C# and raw TCP socke
 
 ### 🧠 Engineering Philosophy
 
-> Ai will only be as good as the person using it.
+> Don't outsource your thinking to Ai
 
 ---
 
